@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Asul&family=Bona+Nova:wght@700&family=Cormorant+Garamond:ital,wght@1,300&family=DM+Serif+Display&family=Gloock&family=Italianno&family=Labrada:wght@600&family=Lobster&family=Lobster+Two:wght@700&family=Merriweather:wght@400;700&family=Noto+Serif:ital,wght@1,700&family=Playfair+Display:ital@1&family=Rampart+One&family=Roboto&family=Shantell+Sans:wght@300&family=Tilt+Prism&family=Vesper+Libre&display=swap');
+
+.a1 {
+    width: 26%;
+    margin-top: 110px;
+    background-color: rgb(131, 164, 168);
+    margin-left: 445px;
+    height: 366px;
+    margin-bottom:12px;
+    border-radius:33px;
+}
+
+.a2 {
+    width: 99%;
+    text-align: right;
+    color: black;
+    font-size: 40px;
+    border: black;
+    background-color: white;
+    height: 86px;
+    margin-top: 40px;
+}
+
+.a3 {
+
+    font-size: 25px;
+    border: black;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 24%;
+    height: 40px
+}
+
+.a4 {
+    font-size: 25px;
+    border-radius: 10px;
+    height: 40px;
+    width: 49%;
+}
+
+.a5 {
+    font-size: 25px;
+    border: black;
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 24%;
+    height: 40px
+}
+
+.a6 {
+    font-size: 25px;
+    color: red;
+    border: black;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 10px;
+    width: 24%;
+    height: 40px
+}
+
+.a7 {
+    font-size: 50px;
+    color: yellow;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+@media(max-width:680px) {
+    .a7 {
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .a3 {
+        font-size: 15px;
+        border: black;
+        border-radius: 50px;
+        margin-top: 10px;
+        width: 19%;
+        height: 32px
+    }
+
+    .a4 {
+        font-size: 15px;
+        border-radius: 50px;
+        height: 40px;
+        width: 44%;
+    }
+
+    .a6 {
+        font-size: 15px;
+        color: white;
+        border: black;
+        background-color: rgba(152, 149, 149, 0.51);
+        border-radius: 10px;
+        margin-top: 10px;
+        width: 19%;
+        height: 32px
+    }
+
+    .a5 {
+        font-size: 15px;
+        border: black;
+        background-color: darkgoldenrod;
+        border-radius: 10px;
+        margin-top: 10px;
+        width: 19%;
+        height: 32px
+    }
+}
+
+@media(min-width:680px) and (max-width:1000px) {
+    .a7 {
+        font-size: 20px;
+
+    }
+
+    .a3 {
+        font-size: 15px;
+        border: black;
+        border-radius: 10px;
+        margin-top: 10px;
+        width: 24%;
+        height: 32px
+    }
+
+    .a4 {
+        font-size: 15px;
+        border-radius: 10px;
+        height: 40px;
+        width: 50%;
+    }
+
+    .a6 {
+        font-size: 15px;
+        color: white;
+        border: black;
+        background-color: rgba(152, 149, 149, 0.51);
+        border-radius: 50px;
+        margin-top: 10px;
+        width: 24%;
+        height: 32px
+    }
+
+    .a5 {
+        font-size: 15px;
+        border: black;
+        background-color: darkgoldenrod;
+        border-radius: 10px;
+        margin-top: 10px;
+        width: 19%;
+        height: 32px
+    }
+}
+
+@media(min-width:1000px) and (max-width:1070px) {
+    .a7 {
+        font-size: 32px;
+
+    }
+  
+
+    .a3 {
+        font-size: 15px;
+        border: black;
+        border-radius: 50px;
+        margin-top: 10px;
+        width: 24%;
+        height: 32px
+    }
+
+    .a4 {
+        font-size: 15px;
+        border-radius: 50px;
+        height: 40px;
+        width: 50%;
+    }
+
+    .a6 {
+        font-size: 15px;
+        color: white;
+        border: black;
+        background-color: rgba(152, 149, 149, 0.51);
+        border-radius: 50px;
+        margin-top: 10px;
+        width: 24%;
+        height: 32px
+    }
+
+    .a5 {
+        font-size: 15px;
+        border: black;
+        background-color: darkgoldenrod;
+        border-radius: 50px;
+        margin-top: 10px;
+        width: 19%;
+        height: 32px
+    }
+}
+
+@media(min-width:1070px) and (max-width:1470px) {
+    .a7 {
+        font-size: 35px;
+
+    }
+    
+    .a3 {
+        font-size: 15px;
+        border: black;
+        border-radius: 10px;
+        margin-top: 10px;
+        width: 24%;
+        height: 32px
+    }
+
+    .a4 {
+        font-size: 15px;
+        border-radius: 10px;
+        height: 40px;
+        width: 33%;
+    }
+
+    .a6 {
+        font-size: 15px;
+        color:red;
+        border: black;
+        background-color: black;
+        border-radius: 10px;
+        margin-top: 10px;
+        width: 24%;
+        height: 32px
+    }
+
+    .a5 {
+        font-size: 15px;
+        border: black;
+        background-color: darkgoldenrod;
+        border-radius: 10px;
+        margin-top: 10px;
+        width: 19%;
+        height: 32px
+    }
+}
+
+@media(min-width:1470px) and (max-width:1800px) {
+    .a7 {
+        font-size: 50px;
+
+    }
+}
